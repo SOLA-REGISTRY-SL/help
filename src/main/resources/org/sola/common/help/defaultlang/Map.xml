@@ -287,6 +287,6 @@
 	<mapID target="100_rights_export" url="images/100_rights_export.png"/>
 	<mapID target="105_person_relationship" url="images/105_person_relationship.png"/>
 	<mapID target="person_relationship" url="screens/person_relationship.html"/>
-	<mapID target="release_1610a" url="release_notes/release_1610a.html"/>
+	<mapID target="release_1611a" url="release_notes/release_1611a.html"/>
 	<mapID target="release_notes_overview" url="release_notes/release_notes_overview.html"/>
 </map>
